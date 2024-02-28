@@ -1,0 +1,26 @@
+.sobre {
+  padding: 50px 0px;
+  border-bottom: 3px solid var(--c2);
+}
+
+.sobre h2 {
+  margin-bottom: 30px;
+}
+
+.sobre-conteudo {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.sobre-imagens {
+  flex-shrink: 0;
+}
+
+.sobre-texto {
+  padding-right: 20px;
+}
+
+.sobre-texto p:first-child {
+  margin-bottom: 40px;
+}

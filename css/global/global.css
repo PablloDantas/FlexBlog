@@ -3,6 +3,7 @@
   --c1: #122ab2;
   --c2: #2c70ff;
   --c3: #222222;
+  --c4: #7c7c7c;
 }
 
 * {
@@ -20,7 +21,6 @@ img {
   max-width: 100%;
   height: auto;
   display: block;
-  border-radius: 4px;
 }
 
 ul {

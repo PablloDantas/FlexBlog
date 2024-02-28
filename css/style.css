@@ -9,3 +9,6 @@
 @import "/css/utilidades/containers.css";
 @import "/css/utilidades/cores.css";
 @import "/css/utilidades/fontes.css";
+
+/* Home */
+@import "/css/home/sobre.css";
