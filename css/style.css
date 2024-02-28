@@ -1,0 +1,9 @@
+/* Global */
+@import "/css/global/global.css";
+@import "/css/global/info.css";
+
+/* Utilitários */
+@import "/css/utilidades/backgrounds.css";
+@import "/css/utilidades/containers.css";
+@import "/css/utilidades/cores.css";
+@import "/css/utilidades/fontes.css";
