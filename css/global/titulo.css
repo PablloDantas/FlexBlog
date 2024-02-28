@@ -1,0 +1,7 @@
+.titulo {
+  padding: 50px 0px;
+  border-bottom: 3px solid var(--c2);
+}
+.titulo h1 {
+  max-width: 60%;
+}

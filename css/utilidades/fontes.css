@@ -21,3 +21,27 @@
   font-size: 20px;
   font-weight: 700;
 }
+
+.font-36 {
+  font-family: "Nunito", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+}
+
+.font-36-b {
+  font-family: "Nunito", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.font-48 {
+  font-family: "Nunito", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+
+.font-48-b {
+  font-family: "Nunito", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+}

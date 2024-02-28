@@ -1,3 +1,11 @@
+.bg-0 {
+  background-color: var(--c0);
+}
+
 .bg-1 {
   background-color: var(--c1);
+}
+
+.bg-2 {
+  background-color: var(--c2);
 }

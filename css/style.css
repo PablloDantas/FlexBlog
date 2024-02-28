@@ -1,6 +1,8 @@
 /* Global */
 @import "/css/global/global.css";
 @import "/css/global/info.css";
+@import "/css/global/header.css";
+@import "/css/global/titulo.css";
 
 /* Utilitários */
 @import "/css/utilidades/backgrounds.css";
