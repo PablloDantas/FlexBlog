@@ -1,19 +1,19 @@
 /* Global */
-@import "./css/global/global.css";
-@import "./css/global/info.css";
-@import "./css/global/header.css";
-@import "./css/global/titulo.css";
-@import "./css/global/footer.css";
+@import "./global/global.css";
+@import "./global/info.css";
+@import "./global/header.css";
+@import "./global/titulo.css";
+@import "./global/footer.css";
 
 /* Utilitários */
-@import "./css/utilidades/backgrounds.css";
-@import "./css/utilidades/containers.css";
-@import "./css/utilidades/cores.css";
-@import "./css/utilidades/fontes.css";
+@import "./utilidades/backgrounds.css";
+@import "./utilidades/containers.css";
+@import "./utilidades/cores.css";
+@import "./utilidades/fontes.css";
 
 /* Home */
-@import "./css/home/sobre.css";
-@import "./css/home/produtos.css";
-@import "./css/home/planos.css";
-@import "./css/home/qualidades.css";
-@import "./css/home/newsletter.css";
+@import "./home/sobre.css";
+@import "./home/produtos.css";
+@import "./home/planos.css";
+@import "./home/qualidades.css";
+@import "./home/newsletter.css";
