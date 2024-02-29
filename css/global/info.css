@@ -1,5 +1,12 @@
 .info {
   display: flex;
   justify-content: space-between;
-  padding: 15px 0px;
+  align-content: center;
+  padding-top: 10px;
+  flex-wrap: wrap;
+}
+
+.info span {
+  margin: 0px 10px 10px 10px;
+  text-align: center;
 }

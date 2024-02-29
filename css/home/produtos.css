@@ -8,8 +8,13 @@
 
 .produtos-conteudo {
   display: flex;
+  flex-wrap: wrap;
   gap: 20px;
   align-items: end;
+}
+
+.produtos-blocos {
+  flex: 1 1 175px;
 }
 
 .produtos-blocos h3 {

@@ -1,0 +1,45 @@
+.planos {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  justify-content: center;
+  gap: 40px;
+  padding: 60px 0px;
+}
+
+.planos-blocos {
+  display: flex;
+  flex-direction: column;
+  border: 5px solid var(--c0);
+  padding: 20px 70px;
+}
+
+.planos-blocos h3,
+.planos-preço {
+  border-bottom: 4px solid var(--c0);
+  width: 100%;
+  text-align: center;
+}
+
+.planos-preço {
+  margin-top: 10px;
+}
+
+.planos-blocos a {
+  padding: 5px 40px;
+  margin-top: 40px;
+  text-transform: uppercase;
+  border: 3px solid var(--c3);
+}
+
+.planos-blocos li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.planos-blocos li::after {
+  content: "•";
+  color: var(--c2);
+}

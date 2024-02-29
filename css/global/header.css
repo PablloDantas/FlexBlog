@@ -1,5 +1,6 @@
 .header {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   padding: 20px 0px;
 }
@@ -7,5 +8,10 @@
 .header-nav {
   display: flex;
   gap: 25px;
+  flex-wrap: wrap;
   align-items: center;
+}
+
+.header-nav a:hover {
+  color: var(--c1);
 }
