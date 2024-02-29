@@ -1,0 +1,29 @@
+.produtos {
+  padding: 50px 0px;
+}
+
+.produtos h2 {
+  margin-bottom: 60px;
+}
+
+.produtos-conteudo {
+  display: flex;
+  gap: 20px;
+  align-items: end;
+}
+
+.produtos-blocos h3 {
+  padding: 60px 0px;
+}
+
+.produtos-blocos.c-purple {
+  border-top: 7px solid #be82ff;
+}
+
+.produtos-blocos.c-pink {
+  border-top: 7px solid #ff215f;
+}
+
+.produtos-blocos.c-blue {
+  border-top: 7px solid #00daec;
+}
