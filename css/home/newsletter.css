@@ -1,0 +1,43 @@
+.newsletter {
+  padding: 60px 0px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.newsletter-conteudo {
+  flex: 1 1 200px;
+  margin: 10px;
+}
+
+.newsletter-conteudo p {
+  max-width: 200px;
+}
+
+.newsletter-form {
+  flex: 2 1 260px;
+  align-self: center;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 10px;
+}
+
+.newsletter input {
+  flex: 3 1 260px;
+  border: 3px solid var(--c2);
+  padding: 10px;
+  border-radius: 0;
+  background: transparent;
+}
+
+.newsletter button {
+  flex: 1 1 260px;
+  background: var(--c2);
+  border: 3px solid var(--c2);
+  padding: 10px;
+  margin: 0;
+  border: 0px;
+  border-radius: 0;
+  text-transform: uppercase;
+  cursor: pointer;
+}

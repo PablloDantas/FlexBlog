@@ -3,6 +3,7 @@
 @import "/css/global/info.css";
 @import "/css/global/header.css";
 @import "/css/global/titulo.css";
+@import "/css/global/footer.css";
 
 /* Utilitários */
 @import "/css/utilidades/backgrounds.css";
@@ -15,3 +16,4 @@
 @import "/css/home/produtos.css";
 @import "/css/home/planos.css";
 @import "/css/home/qualidades.css";
+@import "/css/home/newsletter.css";
