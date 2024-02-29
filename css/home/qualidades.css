@@ -1,0 +1,38 @@
+.qualidades {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 60px 10px;
+  gap: 40px 20px;
+}
+
+.qualidades-blocos {
+  flex: 1 1 290px;
+}
+
+.qualidades-blocos h2 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.qualidades-blocos h2::before {
+  content: "";
+  display: inline-block;
+  width: 8px;
+  height: 35px;
+  background-color: aqua;
+}
+
+.qualidades-blocos:nth-last-of-type(3n + 1) h2::before {
+  background-color: #be82ff;
+}
+
+.qualidades-blocos:nth-last-of-type(3n + 2) h2::before {
+  background-color: #ff215f;
+}
+
+.qualidades-blocos:nth-last-of-type(3n + 3) h2::before {
+  background-color: #00daec;
+}
